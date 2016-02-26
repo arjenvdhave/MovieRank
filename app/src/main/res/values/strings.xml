@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieRank</string>
+
+    <string name="detail_title">Titel</string>
+    <string name="detail_year">Jaar</string>
+    <string name="detail_released">Uitgebracht op</string>
+    <string name="detail_runtime">Duur</string>
+    <string name="detail_genre">Genre</string>
+    <string name="detail_director">Regiseur</string>
+    <string name="detail_writer">Schrijver</string>
+    <string name="detail_actors">Acteurs</string>
+    <string name="detail_plot">Plot</string>
+    <string name="detail_language">Taal</string>
+    <string name="detail_country">Land</string>
+    <string name="detail_awards">Prijzen</string>
+</resources>
